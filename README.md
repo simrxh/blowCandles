@@ -8,5 +8,5 @@ I was looking for virtual birthday items I could send to my online friend on the
 Although I liked the concept of the birthday person blowing out their cake candles , the fact that they had to set their own candles seemed a bit unfair , so i tweaked the code a little for predefined candles on the cake (21) .
 
 ## Accessing the Project
-To experience the Interactive Birthday Cake, visit the GitHub Pages link: [Interactive Birthday Cake](https://sherryuser.github.io/cake-blow/)
+To experience the Interactive Birthday Cake, visit the GitHub Pages link: [Interactive Birthday Cake](https://simrxh.github.io/blowCandles/)
 
