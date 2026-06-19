@@ -1,4 +1,4 @@
-# 🎂 Interactive Birthday Cake Project 🎉
+# Interactive Birthday Cake Project with 21 candles. 🎂🎉
 
 ## Overview
 Users can send this link to their friends as a virtual birthday cake and the candles can be blown out by using the microphone.
