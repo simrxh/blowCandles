@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (remainingCandles.length === 0) {
             clearInterval(blowCheckInterval); // Stop checking if all are out
-            statusMessage.textContent = "HAPPY BIRTHDAY AZHAR !!!";
+            statusMessage.textContent = "HAPPY BIRTHDAY A !!!";
             return;
         }
 
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             // Immediately check if all are out to update the final message
             if (candles.every(candle => candle.classList.contains("out"))) {
-                statusMessage.textContent = "HAPPY BIRTHDAY AZHAR !!!";
+                statusMessage.textContent = "HAPPY BIRTHDAY A !!!";
                 clearInterval(blowCheckInterval);
             }
         }
